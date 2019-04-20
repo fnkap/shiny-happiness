@@ -22,6 +22,12 @@ Solution of a challenge found here:
 
 https://www.reddit.com/r/dailyprogrammer/comments/aqwvxo/20190215_challenge_375_hard_graph_of_thrones/
 
+### Leaps
+
+Solution of a challenge found here:
+
+https://www.reddit.com/r/dailyprogrammer/comments/b0nuoh/20190313_challenge_376_intermediate_the_revised/
+
 ### MaximizeIt
 
 Exercise from https://www.hackerrank.com/challenges/maximize-it/problem
