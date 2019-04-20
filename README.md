@@ -10,6 +10,12 @@ Each folder contains some python code representing a solved problem or an exerci
 
 Here's a list of what's included:
 
+### CardFlipping
+
+Solution of a challenge found here:
+
+https://www.reddit.com/r/dailyprogrammer/comments/aq6gfy/20190213_challenge_375_intermediate_a_card/
+
 ### FloodFill
 
 Flood fill algorithm.
