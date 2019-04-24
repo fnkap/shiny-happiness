@@ -38,6 +38,12 @@ https://www.reddit.com/r/dailyprogrammer/comments/b0nuoh/20190313_challenge_376_
 
 Exercise from https://www.hackerrank.com/challenges/maximize-it/problem
 
+### MazeRunner
+
+Self-explaining challenge given by my professor.
+
+Jupyter Notebook version included.
+
 ### Nonogram
 
 Solution of a Nonogram.
