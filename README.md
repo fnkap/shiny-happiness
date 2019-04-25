@@ -16,6 +16,10 @@ Solution of a challenge found here:
 
 https://www.reddit.com/r/dailyprogrammer/comments/aq6gfy/20190213_challenge_375_intermediate_a_card/
 
+### Dijkstra
+
+An example implementation of Dijkstra algorithm
+
 ### FloodFill
 
 Flood fill algorithm.
