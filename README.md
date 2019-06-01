@@ -56,6 +56,10 @@ More info here: https://en.wikipedia.org/wiki/Nonogram
 
 Inspired by: https://www.reddit.com/r/dailyprogrammer/comments/am1x6o/20190201_challenge_374_hard_nonogram_solver/
 
+### Pairwithsum
+
+Python porting of this video: https://www.youtube.com/watch?v=XKu_SEDAykw
+
 ### Word funnel 2
 
 This script is inspired by a reddit post which can be found here:
